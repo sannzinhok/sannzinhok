@@ -1,0 +1,30 @@
+name: 🤝 Bora trocar uma ideia
+description: Quer falar sobre um projeto de IA, automação, conteúdo ou marketing? Começa por aqui.
+title: "[Contato] "
+labels: ["contato"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Valeu por chegar até aqui! Conta rapidinho o que você tem em mente que eu respondo por aqui mesmo.
+        **Não coloque telefone, e-mail ou dados pessoais** — esta página é pública.
+  - type: dropdown
+    id: assunto
+    attributes:
+      label: Sobre o que é?
+      options:
+        - Agentes de IA / automação
+        - Atendimento no WhatsApp
+        - Site, dashboard ou app
+        - Conteúdo / YouTube
+        - Marketing digital
+        - Outro
+    validations:
+      required: true
+  - type: textarea
+    id: ideia
+    attributes:
+      label: Me conta a ideia
+      description: O que você quer construir ou resolver?
+    validations:
+      required: true
