@@ -116,9 +116,15 @@ const santiago = {
 
 ## 🤝 Bora trocar uma ideia?
 
-Tem um projeto de **IA, automação, conteúdo ou marketing** e quer tirar do papel? Me chama aqui no GitHub — é só abrir uma [issue neste repositório](https://github.com/sannzinhok/sannzinhok/issues/new) ou me seguir pra acompanhar o que eu ando construindo.
+Tem um projeto de **IA, automação, conteúdo ou marketing** e quer tirar do papel? Me chama nas redes ou abre uma conversa aqui no GitHub.
 
 <div align="center">
+
+<a href="https://www.instagram.com/sgt.mkt/"><img src="https://img.shields.io/badge/Instagram-@sgt.mkt-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @sgt.mkt" /></a>
+<a href="https://www.youtube.com/channel/UC0Px9uRzOtUNTQmlZe1sN9Q"><img src="https://img.shields.io/badge/YouTube-Inscreva--se-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Canal no YouTube" /></a>
+<a href="https://github.com/sannzinhok/sannzinhok/issues/new/choose"><img src="https://img.shields.io/badge/GitHub-Abrir_conversa-181717?style=for-the-badge&logo=github&logoColor=white" alt="Abrir conversa no GitHub" /></a>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,55:5b21b6,100:0d1117&height=120&section=footer" width="100%" alt="" />
 
