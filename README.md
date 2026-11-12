@@ -54,7 +54,7 @@ const santiago = {
   <tr>
     <td width="50%" valign="top">
       <h3>🎬 Conteúdo &amp; YouTube</h3>
-      <p>Roteiro, narração, edição e produção de vídeos para canais no YouTube — incluindo o <b>Explicando Política</b> — com IA acelerando cada etapa.</p>
+      <p>Roteiro, narração, edição e produção de vídeos para canais no YouTube — incluindo o <a href="https://www.youtube.com/@explicandopoliticacorreta"><b>Explicando Política</b></a> — com IA acelerando cada etapa.</p>
     </td>
     <td width="50%" valign="top">
       <h3>💻 Desenvolvimento Web</h3>
@@ -121,7 +121,7 @@ Tem um projeto de **IA, automação, conteúdo ou marketing** e quer tirar do pa
 <div align="center">
 
 <a href="https://www.instagram.com/sgt.mkt/"><img src="https://img.shields.io/badge/Instagram-@sgt.mkt-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @sgt.mkt" /></a>
-<a href="https://www.youtube.com/channel/UC0Px9uRzOtUNTQmlZe1sN9Q"><img src="https://img.shields.io/badge/YouTube-Inscreva--se-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Canal no YouTube" /></a>
+<a href="https://www.youtube.com/@explicandopoliticacorreta"><img src="https://img.shields.io/badge/YouTube-Explicando_Pol%C3%ADtica-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Canal Explicando Política no YouTube" /></a>
 <a href="https://github.com/sannzinhok/sannzinhok/issues/new/choose"><img src="https://img.shields.io/badge/GitHub-Abrir_conversa-181717?style=for-the-badge&logo=github&logoColor=white" alt="Abrir conversa no GitHub" /></a>
 
 <br/><br/>
