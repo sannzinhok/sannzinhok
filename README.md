@@ -104,11 +104,7 @@ const santiago = {
 
 <img src="https://streak-stats.demolab.com?user=sannzinhok&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=A78BFA&locale=pt_BR" alt="Sequência de contribuições" />
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sannzinhok&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=06b6d4&area=true&custom_title=Contribui%C3%A7%C3%B5es%20recentes" width="100%" alt="Gráfico de contribuições" />
-
-<br/>
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sannzinhok/sannzinhok/output/github-contribution-grid-snake-dark.svg" />
