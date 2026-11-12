@@ -25,15 +25,14 @@ Trampo com várias frentes ao mesmo tempo — e o que eu mais curto é fazer tod
 const santiago = {
   base: "Brasil 🇧🇷",
   trampo: [
-    "Agentes de IA & automações",
-    "Atendimento automatizado no WhatsApp",
-    "Marketing digital & crescimento em redes sociais",
-    "Roteiro e produção de vídeos para YouTube",
-    "Sites, dashboards e apps web",
-    "Criativos com IA: imagem, vídeo e voz",
+    "IA & automação",
+    "Atendimento automatizado",
+    "Marketing digital",
+    "Conteúdo para YouTube",
+    "Sites e apps web",
+    "Criativos com IA",
   ],
-  stack: ["TypeScript", "React", "Supabase", "Python", "Docker"],
-  agora: "Colocando agentes de IA pra tocar a operação no automático",
+  projetos: "privados 🔒",
   lema: "Se dá pra automatizar, eu automatizo.",
 };
 ```
@@ -44,31 +43,31 @@ const santiago = {
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 IA &amp; Automação</h3>
-      <p>Crio e coordeno <b>agentes de IA</b> que executam tarefas sozinhos — com regras claras e aprovação humana onde importa. Painel próprio para administrar os agentes e acompanhar tudo em tempo real.</p>
+      <p>Agentes de IA e automações que tiram o trabalho repetitivo do caminho.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>💬 Atendimento no WhatsApp</h3>
-      <p>Triagem, respostas e registro de cada atendimento feitos por agentes, com escalonamento para humano nos casos sensíveis. Nenhuma mensagem sai sem a regra certa.</p>
+      <h3>💬 Atendimento automatizado</h3>
+      <p>Atendimento com IA, sempre com um humano no controle.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🎬 Conteúdo &amp; YouTube</h3>
-      <p>Roteiro, narração, edição e produção de vídeos para canais no YouTube — incluindo o <a href="https://www.youtube.com/@explicandopoliticacorreta"><b>Explicando Política</b></a> — com IA acelerando cada etapa.</p>
+      <p>Vídeos para o YouTube — confira o canal <a href="https://www.youtube.com/@explicandopoliticacorreta"><b>Explicando Política</b></a>.</p>
     </td>
     <td width="50%" valign="top">
       <h3>💻 Desenvolvimento Web</h3>
-      <p>Sites, dashboards e apps com <b>TypeScript + React + Supabase</b>, testes com Vitest e deploy em container.</p>
+      <p>Sites, dashboards e apps web.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📈 Marketing Digital</h3>
-      <p>Crescimento de perfis, tráfego pago, anúncios e serviços para redes sociais (Instagram, TikTok e YouTube).</p>
+      <p>Crescimento e presença nas redes sociais.</p>
     </td>
     <td width="50%" valign="top">
       <h3>🎨 Criativos com IA</h3>
-      <p>Imagens, vídeos, vozes e anúncios gerados com IA para campanhas e conteúdo.</p>
+      <p>Imagens, vídeos e vozes gerados com IA.</p>
     </td>
   </tr>
 </table>
